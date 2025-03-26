@@ -1,3 +1,7 @@
+
+<h1 align="center">Huynh Anh Phuong</h1>
+<h3 align="center">🎓 Artificial Intelligence Student at FPT University</h3>
+
 ## 🛠️ Technologies & Tools  
 
 <p align="left">
