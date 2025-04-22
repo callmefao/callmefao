@@ -1,21 +1,32 @@
-
 <h1 align="center">Huynh Anh Phuong</h1>
 <h3 align="center">🎓 Artificial Intelligence Student at FPT University</h3>
 
+<br/>
+
+<h2 align="center">🤝 Connect with me</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/in/phương-huỳnh-51019b312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/phương-huỳnh-51019b312/" height="30" width="40" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://linkedin.com/in/phương-huỳnh-51019b312/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://www.facebook.com/hap2704/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-
+  
+  <a href="https://github.com/callmefao" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  </a>
+  
+  <a href="https://callmefao.github.io" target="blank">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio Website" height="40" width="40"/>
+  </a>
+  
 </p>
 
+<br/>
 
-## 🛠️ Technologies & Tools  
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -29,38 +40,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats  
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=callmefao&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmefao&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
-## 🌐 Portfolio  
-🔗 Check out my portfolio: **[callmefao Portfolio Web](https://callmefao.github.io)**  
+<br/>
 
+<h2 align="center">💼 My Work & Projects</h2>
 
-## 📚 Repo
-<a href="https://github.com/callmefao/DeepfakeStudio/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=callmefao&repo=DeepfakeStudio&theme=cobalt" />
-</a>
+<p align="center">
+  🔗 Explore my professional portfolio:  
+  <br/>
+  <strong><a href="https://callmefao.github.io">🌐 callmefao Portfolio Web</a></strong>
+</p>
 
-<a href="https://github.com/callmefao/Realtime---Car-Counting/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=callmefao&repo=Realtime---Car-Counting&theme=synthwave" />
-</a>
+<br/>
 
-<a href="https://github.com/callmefao/GenAIChat-Web/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=callmefao&repo=GenAIChat-Web&theme=prussian" />
-</a>
+<h2 align="center">📚 Repositories</h2>
 
+<p align="center">
+  <a href="https://github.com/callmefao/DeepfakeStudio/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmefao&repo=DeepfakeStudio&theme=cobalt" />
+  </a>
 
-<a href="https://github.com/callmefao/callmefao.github.io/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=callmefao&repo=callmefao.github.io&theme=dracula" />
-</a>  
+  <a href="https://github.com/callmefao/Realtime---Car-Counting/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmefao&repo=Realtime---Car-Counting&theme=synthwave" />
+  </a>
 
----
+  <a href="https://github.com/callmefao/GenAIChat-Web/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmefao&repo=GenAIChat-Web&theme=prussian" />
+  </a>
 
+  <a href="https://github.com/callmefao/callmefao.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmefao&repo=callmefao.github.io&theme=dracula" />
+  </a>
+</p>
