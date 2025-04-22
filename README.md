@@ -25,8 +25,10 @@
 <h2 align="center">👤 About Me</h2>
 
 <p align="center">
-  <img align="right" alt="Huynh Anh Phuong" src="https://example.com/your-image.gif" width="320px" />  
+  <img align="right" alt="Huynh Anh Phuong" src="images/chill_coding.gif" width="300px" />  
 </p>
+
+Machine Learning enthusiast passionate about applying technology to build practical, impactful products. Eager to learn and contribute to meaningful projects.
 
 <ul>
   <li>👨 I’m <strong>Huynh Anh Phuong</strong> (callmefao).</li>
