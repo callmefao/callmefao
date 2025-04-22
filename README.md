@@ -1,10 +1,6 @@
 <h1 align="center">Huynh Anh Phuong</h1>
 <h3 align="center">🎓 Artificial Intelligence Student at FPT University</h3>
 
-<br/>
-
-<h2 align="center">🤝 Connect with me</h2>
-
 <p align="center">
   <a href="https://linkedin.com/in/phương-huỳnh-51019b312/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -23,6 +19,21 @@
   </a>
   
 </p>
+
+<br/>
+
+<h2 align="center">👤 About Me</h2>
+
+<p align="center">
+  <img align="right" alt="Huynh Anh Phuong" src="https://example.com/your-image.gif" width="320px" />  
+</p>
+
+<ul>
+  <li>👨 I’m <strong>Huynh Anh Phuong</strong> (callmefao).</li>
+  <li>🎓 Currently studying Artificial Intelligence at FPT University.</li>
+  <li>📧 How to reach me: <a href="https://callmefao.github.io/#contact">Contact Information</a></li>
+  <li>🌐 Website: <a href="https://callmefao.github.io" target="_blank">callmefao Portfolio Web</a></li>
+</ul>
 
 <br/>
 
@@ -47,16 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=callmefao&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmefao&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
-<br/>
-
-<h2 align="center">💼 My Work & Projects</h2>
-
-<p align="center">
-  🔗 Explore my professional portfolio:  
-  <br/>
-  <strong><a href="https://callmefao.github.io">🌐 callmefao Portfolio Web</a></strong>
 </p>
 
 <br/>
