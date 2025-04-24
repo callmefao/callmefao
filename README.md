@@ -25,7 +25,7 @@
 <h2 align="center">👤 About Me</h2>
 
 <p align="center">
-  <img align="right" alt="Huynh Anh Phuong" src="images/chill_coding.gif" width="300px" />  
+  <img align="right" alt="Huynh Anh Phuong" src="images/chill_coding.gif" width="280px" />  
 </p>
 
 Machine Learning enthusiast passionate about applying technology to build practical, impactful products. Eager to learn and contribute to meaningful projects.
