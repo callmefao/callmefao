@@ -75,8 +75,8 @@ Machine Learning enthusiast passionate about applying technology to build practi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmefao&repo=Realtime---Car-Counting&theme=synthwave" />
   </a>
 
-  <a href="https://github.com/callmefao/GenAIChat-Web/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmefao&repo=GenAIChat-Web&theme=prussian" />
+  <a href="https://github.com/callmefao/rps-2player-realtime/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmefao&repo=rps-2player-realtime&theme=prussian" />
   </a>
 
   <a href="https://github.com/callmefao/callmefao.github.io/">
